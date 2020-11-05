@@ -3,7 +3,7 @@ Hash.new
 end
 
 def my_hash
-  {:dogs => "Pitbull"
+  {:dogs => "Pitbull"}
 end
 
 def pioneer
